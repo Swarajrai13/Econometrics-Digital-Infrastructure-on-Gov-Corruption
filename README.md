@@ -15,7 +15,7 @@ Using panel regression models and data from 176 countries between 2011 and 2021,
 
 This project uses two separate corruption measures, each with unique properties and sample coverage:
 
-(1) CPIA Corruption Score (cpi_score):
+**(1) CPIA Corruption Score (cpi_score):**
 
 Source: World Bank CPIA
 
@@ -25,7 +25,7 @@ Coverage: Only low- and middle-income countries
 
 Institutional focus, based on expert assessments tied to aid allocation.
 
-(2) WGI Control of Corruption (corruption_control):
+**(2) WGI Control of Corruption (corruption_control):**
 
 Source: Worldwide Governance Indicators
 
