@@ -4,13 +4,15 @@ This repository contains the code, data, and supporting documentation for an emp
 Using panel regression models and data from 176 countries between 2011 and 2021, the study investigates how mobile technology interacts with demographic, institutional, and infrastructural mechanisms to influence corruption outcomes.
 
 **📁 Contents**
-ECON326 Final Project.pdf — Full research paper
 
-ECON326 FP Code.R — Final cleaned and annotated regression code
+(1) CON326 Final Project.pdf — Full research paper
 
-ECON326 Project.R — Initial development and exploratory code
+(2) ECON326 FP Code.R — Final cleaned and annotated regression code
+
+(3) ECON326 Project.R — Initial development and exploratory code
 
 **Dataset Note: Corruption Data Distinction**
+
 This project uses two separate corruption measures, each with unique properties and sample coverage:
 
 (1) CPIA Corruption Score (cpi_score):
