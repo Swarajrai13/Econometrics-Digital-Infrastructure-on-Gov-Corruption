@@ -11,7 +11,7 @@ Using panel regression models and data from 176 countries between 2011 and 2021,
 
 (3) ECON326 Project.R — Initial development and exploratory code
 
-**Dataset Note: Corruption Data Distinction**
+***Dataset Note: Corruption Data Distinction***
 
 This project uses two separate corruption measures, each with unique properties and sample coverage:
 
