@@ -10,6 +10,10 @@ ECON326 FP Code.R — Final cleaned and annotated regression code
 
 ECON326 Project.R — Initial development and exploratory code
 
+➡️ [Download merged panel datasets (Google Drive)]  (1): (https://drive.google.com/file/d/19dKab7HSl5n86XoY4AW2E2lyxC3SDEeD/view?usp=drive_link)) 
+(2): https://drive.google.com/file/d/13wsF6Lln60yXmCFjeKI6wDvXe7VfPlaw/view?usp=drive_link
+
+
 **🧪 Methods**
 Pooled OLS and two-way fixed effects models
 
